@@ -1,2 +1,15 @@
 #!/bin/bash
-mkdir -p -m751 /tmp/foo/bar/baz
+mkdir -m 751 dir_holberton
+
+
+
+
+
+
+
+
+
+
+
+
+
