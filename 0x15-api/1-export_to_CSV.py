@@ -39,6 +39,5 @@ if __name__ == '__main__':
             # The task name
             title = elem.get('title')
 
-
             # Writing each result of API response in a row of a CSV file
             writer.writerow([emp_id, username, status, title])
